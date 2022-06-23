@@ -1,6 +1,6 @@
 # Gregorian-Calendar-by-c
 
-This program is for Gregorian Calendar, which was established in 1582 and is the calendar used by most of the world (see wikipedia for more information). It is the Gregorian calendar, not the British Julian calendar (where 11 days were skipped over).
+This program is for printing Gregorian Calendar by given year and month, which was established in 1582 and is the calendar used by most of the world (see wikipedia for more information). It is the Gregorian calendar, not the British Julian calendar (where 11 days were skipped over).
 
 For convenience, we only consider dates prior to 1589. January 1st, 1589 was a Sunday and that will make your calculations a tiny bit more straightforward. Any dates prior to January 1st, 1589 will be considered invalid.
 
