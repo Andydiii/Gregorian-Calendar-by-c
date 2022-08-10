@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <assert.h>
+
 // print_header(year, month) prints the calendar "header" 
 //   for the given year/month
 // notes: if month is invalid, no month line is printed
